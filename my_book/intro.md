@@ -1,11 +1,9 @@
-# Welcome to your Jupyter Book
+# Criação de Negócios com IA
+## Página Inicial
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Esta base de conhecimento reúne ferramentas, vídeos, artigos e conceitos fundamentais que serão utilizados na construção do eBook da disciplina “Criação de Negócios com IA”. O conteúdo está organizado por categorias temáticas baseadas na apresentação do curso.
 
-Check out the content pages bundled with this sample book to see more.
+🔑 Conceitos Fundamentais
 
 ```{tableofcontents}
 ```
