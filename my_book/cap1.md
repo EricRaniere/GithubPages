@@ -1,6 +1,6 @@
 # Capítulo 1 – Fundamentos de Inteligência Artificial
 * Objetivo: contextualizar o leitor sobre o que é IA e suas implicações nos negócios. *
-##O que é IA
+## O que é IA
 - A Inteligência Artificial (IA) é um campo de estudos dedicado à construção de sistemas capazes de raciocinar, aprender e agir de maneira que tradicionalmente exigiria inteligência humana. Em termos mais práticos, a IA representa um conjunto de tecnologias baseadas principalmente em machine learning e deep learning, utilizadas para análise de dados, previsões, processamento de linguagem natural, categorização de objetos, recomendações inteligentes etc.
 - A IA engloba diversas disciplinas, incluindo ciência da computação, análise de dados, estatística, engenharia de hardware e software, linguística, neurociência e até filosofia e psicologia.
 - Fundamentalmente, a IA gira em torno de dados; os modelos de IA aprendem e melhoram através da exposição a grandes quantidades de dados, identificando seus padrões e relações.
