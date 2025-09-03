@@ -1,6 +1,6 @@
-#Capítulo 3 – Estratégias de Construção e Operação
-*Objetivo: guiar a tomada de decisão na criação de produtos baseados em IA, desde o desenvolvimento até a monetização.*
-##Build vs. Buy — modelo pronto ou desenvolvido
+# Capítulo 3 – Estratégias de Construção e Operação
+* Objetivo: guiar a tomada de decisão na criação de produtos baseados em IA, desde o desenvolvimento até a monetização.*
+## Build vs. Buy — modelo pronto ou desenvolvido
 - No caminho para criar um negócio com Inteligência Artificial, uma das primeiras e mais importantes decisões estratégicas é definir se a empresa irá desenvolver uma tecnologia própria (build) ou se irá utilizar uma solução já existente no mercado (buy). Essa escolha impacta diretamente o orçamento, o tempo de lançamento do produto e, principalmente, onde residirá o diferencial competitivo. Não se trata de uma decisão puramente técnica, mas fundamentalmente de uma decisão de negócio.
 - A abordagem "Buy": usando um modelo pronto
     
@@ -30,7 +30,7 @@ A escolha entre "Build" e "Buy" não deve ser vista como uma questão binária, 
     Mesmo que a IA não seja o produto principal, ela pode ser um componente crítico para o sucesso. O sistema de recomendação da Netflix ou do Spotify não é o produto em si (que é o acesso ao conteúdo), mas é uma funcionalidade tão determinante para a experiência e retenção dos usuários que exigiu uma abordagem "Build" para sua criação. Isso permitiu que ambas as empresas estabelecessem uma vantagem de mercado significativa.
     
     Portanto, a decisão se alinha a um espectro: começa com o uso de uma API pronta (Buy), avança para o ajuste fino de um modelo open-source (um híbrido de Buy+Build) e pode chegar à construção de um modelo customizado (Build puro). A escolha correta depende de onde a empresa precisa, estrategicamente, ser não apenas boa, mas excepcionalmente única.
-##Estruturas de precificação para IA
+## Estruturas de precificação para IA
 - Uso metrado via API (pay-as-you-go)
     - No modelo “pay-as-you-go” via API, empresas como OpenAI, Anthropic e Google disponibilizam diversos endpoints de inferência, cada um oferecendo um conjunto de modelos (por exemplo, GPT-4o, o3, Claude 3.5, Claude 4, Gemini 2.5, etc.) com razões custo-benefício diferentes. Você é cobrado por unidade de consumo (geralmente por milhão de tokens de entrada e saída), o que possibilita:
         - Escalabilidade imediata: basta chamar a API, sem se preocupar em gerenciar servidores ou clusters de GPU.
@@ -56,8 +56,8 @@ A escolha entre "Build" e "Buy" não deve ser vista como uma questão binária, 
         - **SambaNova Suite** –  https://sambanova.ai/
         - **OpenRouter** – Plataforma agregadora que oferece modelos diversos com preços variados por token, claramente exibidos no site. [https://openrouter.ai/pricing](https://openrouter.ai/)
 
-##Modelos de monetização
-##SaaS e micro-SaaS
+## Modelos de monetização
+## SaaS e micro-SaaS
 - SaaS (Software as a Service)
     - Modelo de negócio baseado em software distribuído como serviço
     - Acesso via navegador ou aplicativo, geralmente com assinatura recorrente
@@ -68,4 +68,4 @@ A escolha entre "Build" e "Buy" não deve ser vista como uma questão binária, 
 - Micro-SaaS
     - Versão especializada e focada de um SaaS tradicional
     - Geralmente desenvolvido por equipes pequenas ou individuais
-##Vibe Coding
+## Vibe Coding
