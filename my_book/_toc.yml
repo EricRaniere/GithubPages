@@ -4,4 +4,9 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
+- file: cap0
+        cap1
+        cap2
+        cap3
+        cap4
+        cap5

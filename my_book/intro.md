@@ -1,4 +1,4 @@
-# Criação de Negócios com IA
+# IA em Movimento: Um Guia Prático para Profissionais que Querem Inovar
 ## Página Inicial
 
 Esta base de conhecimento reúne ferramentas, vídeos, artigos e conceitos fundamentais que serão utilizados na construção do eBook da disciplina “Criação de Negócios com IA”. O conteúdo está organizado por categorias temáticas baseadas na apresentação do curso.
